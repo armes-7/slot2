@@ -1,0 +1,10 @@
+C:\Users\semra\source\repos\2021\2021\bin\Debug\2021.exe.config
+C:\Users\semra\source\repos\2021\2021\bin\Debug\2021.exe
+C:\Users\semra\source\repos\2021\2021\bin\Debug\2021.pdb
+C:\Users\semra\source\repos\2021\2021\obj\Debug\_2021.Form1.resources
+C:\Users\semra\source\repos\2021\2021\obj\Debug\_2021.Properties.Resources.resources
+C:\Users\semra\source\repos\2021\2021\obj\Debug\slotplay.csproj.GenerateResource.cache
+C:\Users\semra\source\repos\2021\2021\obj\Debug\slotplay.csproj.CoreCompileInputs.cache
+C:\Users\semra\source\repos\2021\2021\obj\Debug\2021.exe
+C:\Users\semra\source\repos\2021\2021\obj\Debug\2021.pdb
+C:\Users\semra\source\repos\2021\2021\obj\Debug\slotplay.csprojAssemblyReference.cache
